@@ -10,7 +10,7 @@ Snake eats apple but changes colors with new colored apples.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-I'm thinking about making my game the Snake and apple game but the apple can change colors, and the color of the snake can change whenever the apple changes colors. I'm sure throughout the program there will be many if statements which will indicate when to change the color of the snake and the apple. Even with what should happen when a different colored apple is consumed by the snake. Some colors could possibly make the snake slower or faster too. Also the game will be made in Python.
+I'm thinking about making my game the Snake and apple game but the apple can change colors, and the color of the snake can change whenever the apple changes colors. I'm sure throughout the program there will be many if statements which will indicate when to change the color of the snake and the apple. Even with what should happen when a different colored apple is consumed by the snake. Some colors could possibly make the snake slower or faster too. Also, the game will be made in Python.
 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
